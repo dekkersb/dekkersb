@@ -9,9 +9,22 @@
 ---
 ## Workspace 💻 📝
 
+Working on a 🖥 🍏 with the applications:
+* Webstorm in the languages:
+> - ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript) 
+> - ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react)
+> - ![](https://img.shields.io/badge/Tools-Node.js-informational?style=for-the-badge&logo=node-dot-js)
+> - ![](https://img.shields.io/badge/Web-HTML5-informational?style=for-the-badge&logo=html5)
+> - ![](https://img.shields.io/badge/Web-CSS3-informational?style=for-the-badge&logo=css3)
+* IntelliJ in the languages:
+> - ![](https://img.shields.io/maven-metadata-informational??style=for-the-badge&logo=maven)
+* Postman
+* PgAdmin
+* Adobe Xd
+
 <div align="center"  >
 <a href=[![Top Langs]> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekkersbd&theme=nightowl&layout=compact" /></a> </div>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=dekkersbd&theme=nightowl&layout=compact)]
+
 
 ## 😍 Other functions:
 
