@@ -9,9 +9,9 @@
 ---
 ## Workspace 💻 📝
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dekkersbd&theme=nightowl&layout=compact)](https://github.com/dekkersbd/github-readme-stats)
-
+<div align="center"  >
+<a href=[![Top Langs]> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekkersbd&theme=nightowl&layout=compact" /></a> </div>
+(https://github-readme-stats.vercel.app/api/top-langs/?username=dekkersbd&theme=nightowl&layout=compact)]
 
 ## 😍 Other functions:
 
