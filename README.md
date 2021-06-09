@@ -1,16 +1,16 @@
 # Hi there fellow programmer!👋
 ---
 ## Setup
-🖥📑📚🤓 Just started to follow a bootcamp to become a full stack developer! Very eager to learn all the coding languages and make some super nice programs, sites and apps!
+🖥 📑 📚 🤓 Just started to follow a bootcamp to become a full stack developer! Very eager to learn all the coding languages and make some super nice programs, sites and apps!
 ---
 
-[![dekkersbd GitHub stats](https://github-readme-stats.vercel.app/api?username=dekkersbd&hide=issues,stars&theme=nightowl&show_icons=true)
+![dekkersbd GitHub stats](https://github-readme-stats.vercel.app/api?username=dekkersbd&hide=issues,stars&theme=nightowl&show_icons=true)
 
 ---
 ## Workspace 💻 📝
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dekkersbd&theme=nightowl&layout=compact)](https://github.com/dekkersbd/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dekkersbd&theme=nightowl&layout=compact)](https://github.com/dekkersbd/github-readme-stats)
 
 
 ## 😍 Other functions:
