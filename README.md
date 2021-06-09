@@ -3,7 +3,7 @@
 ---
 ## Setup
 
-#### 🖥 📑 📚 🤓 Just started to follow a bootcamp to become a full stack developer! Very eager to learn coding languages and make some super nice programs, sites and apps!
+#### 🖥 📑 📚 🤓 Following a bootcamp to become a full stack developer! Very eager to learn coding languages and make some super nice programs, sites and apps!
 <div align="center"  >
 <a href=![dekkersbd GitHub stats]> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dekkersbd&hide=issues,stars&theme=nightowl&show_icons=true" /></a> </div>
 
