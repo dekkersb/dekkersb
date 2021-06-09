@@ -3,7 +3,8 @@
 ## Setup
 🖥📑📚🤓 Just started to follow a bootcamp to become a full stack developer! Very eager to learn all the coding languages and make some super nice programs, sites and apps!
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dekkersbd)](https://github.com/dekkersbd/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dekkersbd&theme=tokyonight&show_icons=true)
+
 ---
 ## Workspace
 
