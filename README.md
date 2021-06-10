@@ -5,7 +5,7 @@
 
 #### 🖥 📑 📚 🤓 Following a bootcamp to become a full stack developer! Very eager to learn coding languages and make some super nice programs, sites and apps!
 <div align="center"  >
-<a href=![dekkersbd GitHub stats]> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dekkersbd&hide=issues,stars&theme=nightowl&show_icons=true" /></a> </div>
+<a href=![dekkersb GitHub stats]> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dekkersb&hide=issues,stars&theme=nightowl&show_icons=true" /></a> </div>
 
 ---
 ## Workspace 💻 📝
@@ -48,7 +48,7 @@
 
 
 <div align="center"  >
-<a href=[![Top Langs]> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekkersbd&theme=nightowl&layout=compact" /></a> </div>
+<a href=[![Top Langs]> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekkersb&theme=nightowl&layout=compact" /></a> </div>
 
 ---
 ### List of updates for the future
